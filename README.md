@@ -3,15 +3,12 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<details>
-<p><strong><summary>🎧 Busy coding & vibing to :</summary></strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-</details>
+<p>🎧 Busy coding & vibing 🎧</p>
 </div>
----
 
-<h1 align="center">✨ Ahmed Hossam | احمد حسام ✨</h1>
+
+<h1 align="center">✨ Ahmed Hossam | أحمد حسام ✨</h1>
 
 <h3 align="center">💻 Frontend Developer | 🧠 Software Developer (Java, JS) | ⚙️ Embedded Systems</h3>
 
