@@ -10,7 +10,7 @@
 
 <h1 align="center">✨ Ahmed Hossam | أحمد حسام ✨</h1>
 
-<h3 align="center">💻 Frontend Developer | 🧠 Software Developer (Java, JS) | ⚙️ Embedded Systems</h3>
+<h3 align="center">💻 Frontend Developer | 🧠 Software Developer | ⚙️ Embedded Systems</h3>
 
 <p align="center">
   <em>
