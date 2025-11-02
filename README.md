@@ -84,13 +84,3 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-```js
-// 🧰 Ahmed's toolbox
-const AhmedHossam = {
-  frontend: ["HTML", "CSS", "Sass", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind", "Bootstrap"],
-  software: ["Python", "C", "C++", "Java"],
-  tools: ["Git", "VS Code", "Figma"],
-  learning: ["Next.js 14", "Advanced React"]
-};
